@@ -1,2 +1,2 @@
-# CFG-hw1
+# CFG
 CFG homeworks 2022
