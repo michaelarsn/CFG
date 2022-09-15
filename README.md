@@ -1,2 +1,2 @@
-# CFG-week1
+# CFG
 CFG homeworks 2022
